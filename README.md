@@ -7,7 +7,7 @@ resources: 0
 
 ## JavaScript Fundamentals
 
-his unit will cover the fundamentals of the JavaScript programming language.
+This unit will cover the fundamentals of the JavaScript programming language.
 
 ## Topics Covered
 
