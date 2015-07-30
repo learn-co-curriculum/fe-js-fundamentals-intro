@@ -1,9 +1,4 @@
----
-language: none
-tags: javascript, beginner, basics, variables, data types, operators, conditionals
-type: intro
-resources: 0
----
+
 
 ## JavaScript Fundamentals
 
